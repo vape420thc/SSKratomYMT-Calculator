@@ -1,0 +1,2 @@
+# SSKratomYMT-Calculator
+Calculator SSK
